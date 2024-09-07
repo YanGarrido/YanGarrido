@@ -1,2 +1,2 @@
-| <div id="img" align="left"><img src=https://i.pinimg.com/564x/81/c6/49/81c649169501e6842603ffce2295a9cc.jpg width="400"></div>| <div id="Nome" align="center"><h1>Yan Garrido</h1></div>|
+| <div id="img" align="left"><img src=https://i.pinimg.com/564x/81/c6/49/81c649169501e6842603ffce2295a9cc.jpg width="400"></div>| <div id="Nome" align="center"><h1>Yan Garrido</h1></div> <div><p>Academic of Information Systems</p></div>|
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|                                                                                                                           
