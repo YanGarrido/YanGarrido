@@ -12,7 +12,8 @@
 
 <!--Intro start-->
 
-- 📝I’m currently a academic of Information Systems
+- 📝I’m currently a academic of Information Systems.
+- 📖Studying JavaScript, Nodejs and React.
 
 <!--Intro end-->
 
@@ -61,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,,github,html,js,mysql,nodejs,postman,py,react,typescript,tailwind,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,nodejs,react,mysql,postman,git,github,py&perline=14" />
   </a>
 </p>
 
