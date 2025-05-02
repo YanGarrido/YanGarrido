@@ -13,7 +13,7 @@
 <!--Intro start-->
 
 - 📝I’m currently a academic of Information Systems.
-- 📖Studying JavaScript, Nodejs, Java and React.
+- 📖Studying JavaScript, Java, Python and Flutter.
 
 <!--Intro end-->
 
