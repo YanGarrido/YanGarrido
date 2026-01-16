@@ -26,7 +26,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=YanGarrido&theme=dark&show_icons=true&count_private=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanGarrido&theme=dark" alt="GitHub Streak" /></a>
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YanGarrido&theme=dark&hide_border=false" /> 
 </td>
