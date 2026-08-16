@@ -13,7 +13,7 @@
 <!--Intro start-->
 
 - 📝I’m currently a academic of Information Systems.
-- 📖Studying JavaScript, Java and Python.
+- 🧑🏻‍💻BackEnd Developer
 
 <!--Intro end-->
 
@@ -38,17 +38,6 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=YanGarrido&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
 
@@ -60,9 +49,22 @@
   </ul>
 </div>
 <!--tech stack icons-->
+<h3 align="center">Backend Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,nodejs,react,py,java,mysql,postman,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,java,spring,hibernate,mysql,postgres&perline=14" />
+  </a>
+</p>
+<h3 align="center">Web Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&perline=14" />
+  </a>
+</p>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github,docker,vscode,idea&perline=14" />
   </a>
 </p>
 
@@ -95,5 +97,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
