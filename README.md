@@ -28,6 +28,7 @@
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanGarrido&theme=dark" alt="GitHub Streak" /></a>
   <br></br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yangarrido&theme=dark" alt="GitHub Stats" />
 </td>
 
 <td width="50%" align="center">
